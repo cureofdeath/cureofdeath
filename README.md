@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cureofdeath
-- 👀 I’m interested in graphic design and 3d design
-- 🌱 I’m currently learning design processes
-- 💞️ I’m looking to collaborate on projects related game development and 3d
+- 👀 I’m interested in graphic design and 3d design.
+- 🌱 I’m currently pursuing BCA.
+- 💞️ I’m looking to collaborate on projects related with real life.
 - 📫 How to reach me - gmail: rohitpal4455@gmail.com
 
 <!---
