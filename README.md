@@ -1,4 +1,3 @@
-<div class="tenor-gif-embed" data-postid="16728264" data-share-method="host" data-width="100%" data-aspect-ratio="1.2357320099255582"><a href="https://tenor.com/view/youre-welcome-cute-smile-gif-16728264">Youre Welcome Cute GIF</a> from <a href="https://tenor.com/search/yourewelcome-gifs">Yourewelcome GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 - 👋 Hi, I’m @cureofdeath
 - 👀 I’m interested in graphic design and 3d design.
 - 🌱 I’m currently pursuing BCA.
