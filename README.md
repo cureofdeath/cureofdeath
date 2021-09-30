@@ -1,3 +1,6 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=cureofdeath&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 - 👋 Hi, I’m @cureofdeath
 - 👀 I’m interested in graphic design and 3d design.
 - 🌱 I’m currently pursuing BCA.
