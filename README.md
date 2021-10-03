@@ -1,4 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cureofdeath)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cureofdeath&show_icons=true)
 
 - 👋 Hi, I’m @cureofdeath
 - 👀 I’m interested in graphic design and 3d design.
