@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @cureofdeath
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cureofdeath&show_icons=true&theme=tokyonight)
-![https://github.com/anuraghazra/github-readme-stats]
+[](https://github.com/anuraghazra/github-readme-stats)
 
 - 👀 I’m interested in graphic design and 3d design.
 - 🌱 I’m currently pursuing BCA.
