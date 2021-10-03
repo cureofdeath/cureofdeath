@@ -1,14 +1,12 @@
 # 👋 Hi, I’m @cureofdeath
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cureofdeath&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cureofdeath&layout=compact)
-
 
 - 👀 I’m interested in graphic design and 3d design.
 - 🌱 I’m currently pursuing BCA.
 - 💞️ I’m looking to collaborate on projects related with real life.
 - 📫 How to reach me - gmail: rohitpal4455@gmail.com
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cureofdeath&layout=compact&theme=tokyonight)
 <!---
 cureofdeath/cureofdeath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
