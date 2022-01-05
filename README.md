@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in graphic design and 3d design.
 - 🌱 I’m currently pursuing BCA.
-- 💞️ I’m looking to collaborate on projects related with real life.
+- 💞️ I’m looking forward to collaborate on projects resolving real world issues.
 - 📫 How to reach me - gmail: rohitpal4455@gmail.com
 
 <!---
