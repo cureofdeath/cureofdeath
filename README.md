@@ -3,7 +3,7 @@
 - 👀 I’m interested in graphic design and 3d design.
 - 🌱 I’m currently pursuing BCA.
 - 💞️ I’m looking forward to collaborate on projects resolving real world issues.
-- 📫 How to reach me - gmail: rohitpal4455@gmail.com
+- 📫 How to reach me - gmail: cureofdeath@duck.com
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cureofdeath&show_icons=true&theme=tokyonight)
