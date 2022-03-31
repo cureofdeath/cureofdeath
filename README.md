@@ -8,6 +8,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cureofdeath&show_icons=true&theme=tokyonight)
 
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cureofdeath&theme=tokyonight" />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cureofdeath&layout=compact&theme=tokyonight)
 
 
