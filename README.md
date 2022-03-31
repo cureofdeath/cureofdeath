@@ -5,18 +5,20 @@
 - 💞️ I’m looking forward to collaborate on projects resolving real world issues.
 - 📫 How to reach me - email: cureofdeath@duck.com
 
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=cureofdeath&show_icons=true&theme=tokyonight">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cureofdeath&show_icons=true&theme=tokyonight)
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cureofdeath&theme=tokyonight">
+   
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cureofdeath&layout=compact&theme=tokyonight">
+   
+   <img src="https://github.com/cureofdeath/cureofdeath/blob/output/github-contribution-grid-snake.svg">
+<p>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cureofdeath&theme=tokyonight" />
+[](trophy(https://github-profile-trophy.vercel.app/?username=cureofdeath&theme=onedark&row=1)(https://github.com/ryo-ma/github-profile-trophy))
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cureofdeath&layout=compact&theme=tokyonight)
-
-
-<!---
+   
+   <!---
 cureofdeath/cureofdeath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[](trophy(https://github-profile-trophy.vercel.app/?username=cureofdeath&theme=onedark&row=1)(https://github.com/ryo-ma/github-profile-trophy))
-
-   <img src="https://github.com/cureofdeath/cureofdeath/blob/output/github-contribution-grid-snake.svg">
