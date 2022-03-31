@@ -6,9 +6,9 @@
 - 📫 How to reach me - email: cureofdeath@duck.com
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=cureofdeath&show_icons=true&theme=tokyonight">
+   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=cureofdeath&show_icons=true&theme=tokyonight">
 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cureofdeath&theme=tokyonight">
+   <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=cureofdeath&theme=tokyonight">
    
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cureofdeath&layout=compact&theme=tokyonight">
    
