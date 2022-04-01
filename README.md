@@ -16,8 +16,11 @@
    
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cureofdeath&layout=compact&theme=tokyonight">
    
+   <h2 align="center">Snake eating my Contribution  <img src = "https://github.com/cureofdeath/cureofdeath/blob/main/Resources/toppng.com-jpg-royalty-free-snake-huge-freebie-cute-slytheri-511x735.png" width = 20px></h2>
+</p>
+<p align="center">
    <img src="https://github.com/cureofdeath/cureofdeath/blob/output/github-contribution-grid-snake.svg">
-<p>
+</p>
 
 [](trophy(https://github-profile-trophy.vercel.app/?username=cureofdeath&theme=onedark&row=1)(https://github.com/ryo-ma/github-profile-trophy))
 
