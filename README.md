@@ -1,3 +1,7 @@
+<p align="center">
+   <img width="80%" src="https://github.com/cureofdeath/cureofdeath/blob/main/Resources/82cba58a-b8dc-4222-a430-5bee8d661e6c.png">
+</p>
+
 # 👋 Hi, I’m @cureofdeath
 
 - 👀 I’m interested in graphic design and 3d design.
