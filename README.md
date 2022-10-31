@@ -8,9 +8,7 @@
 - 🌱 I’m currently an Intern as a Ui/Ux Designer. 
 - 💞️ I’m looking forward to collaborate on projects resolving real world issues.
 - 📫 How to reach me - email: cureofdeath@duck.com
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-              
+          
 
 <p align="center">
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cureofdeath&show_icons=true&theme=tokyonight">
