@@ -9,6 +9,8 @@
 - 💞️ I’m looking forward to collaborate on projects resolving real world issues.
 - 📫 How to reach me - email: cureofdeath@duck.com
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="cureofdeath" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/cureofdeath?trk=profile-badge">Rohit Pal</a></div>
+              
 
 <p align="center">
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cureofdeath&show_icons=true&theme=tokyonight">
