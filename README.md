@@ -5,7 +5,7 @@
 # 👋 Hi, I’m @cureofdeath
 
 - 👀 I’m interested in Product Designing and Open-source.
-- 🌱 I’m currently an Intern as a Ui/Ux Designer. 
+- 🌱 I’m currently working as an UX/UI Designer. 
 - 💞️ I’m looking forward to collaborate on projects resolving real world issues.
 - 📫 How to reach me - email: cureofdeath@duck.com
           
